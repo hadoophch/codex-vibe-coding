@@ -1,0 +1,36 @@
+# Node.js
+node_modules/
+dist/
+build/
+.npm/
+.pnpm-store/
+.yarn/
+coverage/
+
+# Java / Maven / Gradle
+target/
+out/
+*.class
+*.jar
+*.war
+*.ear
+.mvn/
+.gradle/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment files
+.env
+.env.*
+!.env.example
